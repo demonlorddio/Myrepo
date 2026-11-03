@@ -1,0 +1,46 @@
+body{
+    background-color: cyan;
+    /*background-image: url("https://imgs.search.brave.com/RJNADNBbSTxWN4zKRPtYEFSAHeiOmQkLaZ0Ei4GRWVY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvNzEz/NTAwNy9wZXhlbHMt/cGhvdG8tNzEzNTAw/Ny5qcGVnP2NzPXRp/bnlzcmdiJmRwcj0x/Jnc9NTAw");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed; */
+
+}
+header{
+    color: red;
+    margin-left: 720px;
+    position: fixed;
+    right: 20px;
+    bottom: 30px;
+    padding: 10px;
+}
+nav{
+    margin-left: 720px;
+
+}
+section{
+    text-align: right;
+    color: blue;
+    font-size: large;
+}
+article{
+    text-align: left;
+    color: red;
+    font-size: small;
+}
+main{
+    text-align: center;
+    color: green;
+    font-size: large;
+}
+.important{
+    color: black;
+    font-size: 30px;
+}
+#my{
+    color: black;
+    /* font-size: 30px; */
+}
+input[type="checkbox"]{
+    color: blue;
+}

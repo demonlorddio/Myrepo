@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: cyan;
+    margin: 20px;
+}
+form {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 500px;
+    margin: auto;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+input[type="radio"]{
+    color: blue;
+}
